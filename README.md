@@ -1,5 +1,5 @@
 
-- :zap: I’m currently learning Cloud Operations - Azure, React JS, Java
+- :zap: I’m currently learning Python-Django React Fullstack
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shrutisajan/)
 
