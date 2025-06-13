@@ -1,7 +1,7 @@
 
 - :zap: I’m currently learning Cloud Operations - Azure, React JS, Java
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melvin-tom-varghese-b1a574202/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shrutisajan/)
 
 ---
 
@@ -23,13 +23,10 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melvinvarghese028&theme=shadow-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shrutisajan11&theme=shadow-green)](https://git.io/streak-stats)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinvarghese028&layout=compact&theme=tokyonight)](https://github.com/melvinvarghese028/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutisajan11&layout=compact&theme=tokyonight)](https://github.com/melvinvarghese028/github-readme-stats)
 
-<!---
-melvinvarghese028/melvinvarghese028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
